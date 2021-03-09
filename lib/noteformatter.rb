@@ -1,0 +1,3 @@
+class NoteFormatter
+
+end
